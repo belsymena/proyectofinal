@@ -1,3 +1,4 @@
+//hecho por belsy jhossira mena renteria y karen medina
 #include <iostream>
 #include <string.h>
 using namespace std;
